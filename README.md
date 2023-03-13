@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in Asanpardakht<br>👯  I’m currently working with C#, Python
+🔭 I’m currently working in Asan Pardakht<br>👯  I’m currently working with C#, Python
 
 
 ## 🌐 Socials:
